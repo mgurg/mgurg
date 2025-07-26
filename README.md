@@ -9,10 +9,8 @@ Professionally I work with **PHP (Laravel)** and **Java (Spring Boot)**, and I b
 ### 👨‍💻 Pre-dev era – data, ML, and computer vision playgrounds
 
 - 📔 [Early dev journal / blog](https://mgurg.github.io/)
-
 - 🦾 [Robot_report: log-based report generator for an industrial KUKA robot](https://github.com/mgurg/Robot_report)
-
-- 📈 Data experiments  
+- 📈 Data experiments:
   - [Data Workshop Classes: online-retail](https://github.com/mgurg/DW-online-retail) – retail data exploration  
   - [Data_Workshop_KTW: Bikes rental](https://github.com/mgurg/DWC_KTW) – city bikes renatal data analysis  
   - [Passenger counting](https://github.com/mgurg/APC) – image classification for counting passengers 
